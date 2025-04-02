@@ -1,3 +1,1 @@
-#NÃO ESQUECER:
 
-## npm i
