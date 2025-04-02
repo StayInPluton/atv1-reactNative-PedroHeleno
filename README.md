@@ -1,0 +1,3 @@
+#NÃO ESQUECER:
+
+## npm i
